@@ -1,0 +1,27 @@
+[submodule "image-classification-server"]
+	path = image-classification-server
+	url = https://github.com/freakstatic/image-classification-server.git
+[submodule "image-classification"]
+	path = image-classification
+	url = https://github.com/freakstatic/image-classification.git
+[submodule "vapi-server"]
+	path = vapi-server
+	url = https://github.com/freakstatic/vapi-server.git
+[submodule "mechanic-management"]
+	path = mechanic-management
+	url = https://github.com/freakstatic/mechanic-management.git
+[submodule "sad"]
+	path = sad
+	url = https://github.com/freakstatic/sad.git
+[submodule "four-in-line"]
+	path = four-in-line
+	url = https://github.com/freakstatic/four-in-line.git
+[submodule "node-object-detection"]
+	path = node-object-detection
+	url = https://github.com/freakstatic/node-object-detection.git
+[submodule "ECProject"]
+	path = ECProject
+	url = https://github.com/rcaceiro/ECProject.git
+[submodule "ThingSpeakPopulate"]
+	path = ThingSpeakPopulate
+	url = https://github.com/rcaceiro/ThingSpeakPopulate.git
